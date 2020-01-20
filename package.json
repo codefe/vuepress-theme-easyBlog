@@ -8,7 +8,7 @@
     "start": "node createCategory && vuepress dev .",
     "build": "vuepress build . && cp -r CNAME ./.vuepress/dist",
     "publish": "node createCategory && npm run build && sh deploy.sh",
-    "try":"git3"
+    "try":"git4"
   },
   "author": "438944342@qq.com",
   "license": "ISC",
